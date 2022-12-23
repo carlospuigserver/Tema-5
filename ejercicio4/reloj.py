@@ -10,4 +10,3 @@ def reloj():
         sleep(1)
 
 reloj()
-
